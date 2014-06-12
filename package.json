@@ -1,7 +1,7 @@
 {
   "name": "shadow-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A dark, flat, monokai-ish theme",
   "repository": {
     "type": "git",
